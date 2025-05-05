@@ -1,6 +1,6 @@
 # Real-World Health Signal Analysis
 
-# Problem: What are the most commonly reported side effects for top drugs, and how do sentiments about these drugs vary across age groups?
+# Problem: What are the most commonly reported side effects for top drugs, and how do sentiments about these drugs vary over time?
 
 ## 🔍 Scope
 - Target drugs: Top 10 most-reviewed.
