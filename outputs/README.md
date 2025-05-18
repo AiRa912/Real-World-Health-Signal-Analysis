@@ -2,7 +2,7 @@
 ### What are the most commonly reported side effects for top drugs, and how do sentiments about these drugs vary over time?
 
 ## Answer:
-# 🧪 Top 5 Reported Side Effects per Top 10 Drugs
+#### 🧪 Top 5 Reported Side Effects per Top 10 Drugs
 A heatmap analysis of top-reported side effects by drug revealed clear and recurring patterns:
 
 Hormonal contraceptives like Levonorgestrel, Norethindrone, Etonogestrel, Nexplanon, and Norgestimate frequently showed high mentions of: Tics, acne, pain, and mood swings.
@@ -15,7 +15,7 @@ Naltrexone, used in addiction management, had lower frequencies overall, but not
 
 📌 These trends suggest that hormonal treatments often show high prevalence of dermatological and neurological side effects (e.g., acne, tics), while psychiatric medications center more around mood-related conditions.
 
-# 📈 Sentiment Trends Over Time for Top 10 Drugs
+#### 📈 Sentiment Trends Over Time for Top 10 Drugs
 An analysis of sentiment scores over time revealed distinct emotional trajectories for the most discussed medications:
 
 Phentermine maintained a consistently positive sentiment across the timeline, often peaking well above other drugs. This suggests enduring user satisfaction, potentially linked to its effectiveness in weight management.
@@ -30,7 +30,7 @@ Mirena and Norgestimate remained relatively stable with near-neutral sentiment, 
 
 📌 This time-series analysis underlines how psychiatric and hormonal drugs often invoke steady, emotionally weighted responses, while lifestyle and addiction-related treatments can produce more positively charged and varied sentiment arcs over time.
 
-# 📊 Average Sentiment Score for Top Drugs
+#### 📊 Average Sentiment Score for Top Drugs
 A bar chart of average compound sentiment scores across top drugs showcased clear sentiment polarities:
 
 Phentermine emerged as the most positively reviewed drug with a sentiment score over +0.3, pointing to high satisfaction—likely due to visible, fast-acting results in weight management.
