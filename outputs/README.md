@@ -6,11 +6,17 @@
 A heatmap analysis of top-reported side effects by drug revealed clear and recurring patterns:
 
 Hormonal contraceptives like Levonorgestrel, Norethindrone, Etonogestrel, Nexplanon, and Norgestimate frequently showed high mentions of: Tics, acne, pain, and mood swings.
+
 Notably, Levonorgestrel had the highest mention count for tics (3,470) and acne (1,509).
+
 SSRIs such as Escitalopram and Sertraline were commonly associated with:Anxiety, depression, and stress.
+
 Escitalopram in particular had over 1,300 mentions of anxiety and 775 for depression.
+
 Phentermine, a weight loss medication, had distinct side effects including: Dry mouth, stress, and tics.
+
 Mirena, an intrauterine device, was frequently linked to:Pain and nausea.
+
 Naltrexone, used in addiction management, had lower frequencies overall, but notable mentions of anxiety and nausea.
 
 📌 These trends suggest that hormonal treatments often show high prevalence of dermatological and neurological side effects (e.g., acne, tics), while psychiatric medications center more around mood-related conditions.
